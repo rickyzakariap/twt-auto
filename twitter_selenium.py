@@ -375,4 +375,8 @@ def main():
         driver.quit()
 
 if __name__ == '__main__':
-    main() 
+    try:
+        main()
+    except KeyboardInterrupt:
+        print('\nCancelled by user. Exiting cleanly.')
+        exit(0) 
