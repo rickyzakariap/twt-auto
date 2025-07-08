@@ -1,10 +1,16 @@
-# Python
+# Python cache and compiled files
 __pycache__/
 *.pyc
 
-# Selenium logs and screenshots
+# Logs
+*.log
+
+# Session and account data
+cookies*.json
+accounts.json
+
+# Selenium/old screenshots
 screenshots/
-selenium_log.txt
 
 # Environment/config files
 .env
@@ -13,4 +19,12 @@ credentials.py
 
 # OS files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/ 

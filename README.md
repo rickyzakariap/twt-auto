@@ -20,6 +20,19 @@
 
 ---
 
+## Safety Tips
+
+- Mimic human behavior: use random delays, avoid mass actions.
+- Warm up new accounts with manual use before automating.
+- Limit automation: don't like/follow/tweet too much at once.
+- Use proxies or different IPs for multiple accounts.
+- Watch for captchas or verification challenges—stop if prompted.
+- Stay updated: Twitter changes detection methods often.
+
+> **No tool can guarantee your account is safe from bans. Use at your own risk.**
+
+---
+
 # Twitter Multi-Account Automation Bot
 
 Automate Twitter/X with style. Manage multiple accounts, tweet in bulk, like from timeline, and more—all from a beautiful CLI.
