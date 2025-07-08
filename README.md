@@ -11,6 +11,15 @@
 
 ---
 
+> **⚠️ DYOR: Do Your Own Research!**
+>
+> - Use this tool responsibly and in accordance with Twitter/X terms of service.
+> - Automation can carry risks, including account suspension or bans.
+> - You are solely responsible for your actions and accounts.
+> - Always review and understand what the tool does before using it.
+
+---
+
 # Twitter Multi-Account Automation Bot
 
 Automate Twitter/X with style. Manage multiple accounts, tweet in bulk, like from timeline, and more—all from a beautiful CLI.
