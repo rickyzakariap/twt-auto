@@ -1,0 +1,24 @@
+[2025-07-08T22:03:04.645856] Login failed: status: 400, message: "{"errors":[{"code":366,"message":"Missing data. g;175198698358081406:-1751986983880:trvP20nsvZ8eiHy9S9CB7YkM:7"}]}"
+[2025-07-08T22:03:59.405862] Login successful
+[2025-07-08T22:03:59.815526] Tweet posted
+[2025-07-08T22:07:46.958219] Login successful
+[2025-07-08T22:11:45.071032] Login successful
+[2025-07-08T22:11:46.204720] Bulk tweet #1 posted
+[2025-07-08T22:11:47.143490] Bulk tweet #4 posted
+[2025-07-08T22:14:14.155306] Login successful
+[2025-07-08T22:14:14.170798] Failed to schedule tweet: unconverted data remains: , 24H
+[2025-07-08T22:15:09.446337] Login successful
+[2025-07-08T22:16:01.477162] Scheduled tweet posted at 2025-07-08 22:16:00
+[2025-07-08T22:34:42.280821] Login successful for hyxiaa_
+[2025-07-08T22:34:49.024562] Tweet posted
+[2025-07-08T22:35:01.394043] Login failed for hyxiaa_: Kami memblokir upaya untuk mengakses akun Anda karena kami tidak sepenuhnya yakin itu benar-benar Anda.
+
+Ini terjadi ketika kami mendapati aktivitas masuk yang tidak biasa, seperti upaya masuk yang terlalu banyak, atau berasal dari lokasi atau perangkat yang berbeda.
+
+Anda perlu menunggu untuk mencoba masuk lagi. Sebagian pemblokiran dicabut secara otomatis.
+
+Dapatkan bantuan terkait masalah masuk.
+[2025-07-08T22:38:08.635792] Login successful for hyxiaa_
+[2025-07-08T22:46:14.578054] Login successful for hyxiaa_
+[2025-07-08T22:46:30.798716] Liked tweet 1942610604914823629
+[2025-07-08T22:48:31.237659] Liked tweet 1942610473720909929
