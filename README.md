@@ -11,7 +11,7 @@
 
 ---
 
-> **⚠️ DYOR: Do Your Own Research!**
+> **⚠️ DYOR: Do Your Own Risk!**
 >
 > - Use this tool responsibly and in accordance with Twitter/X terms of service.
 > - Automation can carry risks, including account suspension or bans.
