@@ -149,4 +149,6 @@ MIT
 
 ---
 
-Built with [Twikit](https://github.com/d60/twikit) and [rich](https://github.com/Textualize/rich) 
+Built with: 
+[Twikit](https://github.com/d60/twikit) 
+[rich](https://github.com/Textualize/rich) 
