@@ -1,4 +1,3 @@
 tweepy
-selenium
 webdriver-manager
 questionary 
