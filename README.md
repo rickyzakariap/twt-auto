@@ -152,3 +152,7 @@ MIT
 Built with: 
 [Twikit](https://github.com/d60/twikit) 
 [rich](https://github.com/Textualize/rich) 
+
+---
+
+[![wakatime](https://wakatime.com/badge/github/rickyzakariap/twt-auto.svg)](https://wakatime.com/badge/github/rickyzakariap/twt-auto)
